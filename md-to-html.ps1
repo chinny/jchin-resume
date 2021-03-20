@@ -1,0 +1,1 @@
+pandoc --metadata title=" " -s -o jchin_resume.html -c normalize.css jchin_resume.md
