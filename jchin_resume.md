@@ -1,10 +1,10 @@
 # Jeffrey L. Chin
 
 Irvine, CA 92603  
-jeffreychin89@gmail.com • github.com/chinny  
+[jeffreychin89@gmail.com](mailto:jeffreychin89@gmail.com) • [github.com/chinny](https://github.com/chinny)  
 (626) 342-1433
 
-Jeffrey Chin is system administrator with over a decade of professional experience.
+System administrator with over a decade of professional IT experience.
 
 ## Experience
 
