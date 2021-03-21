@@ -1,54 +1,55 @@
-# Jeffrey L. Chin
-
-Irvine, CA 92603  
-[jeffreychin89@gmail.com](mailto:jeffreychin89@gmail.com) • [github.com/chinny](https://github.com/chinny)  
-(626) 342-1433
-
-System administrator with over a decade of professional IT experience.
+# Jeffrey L. Chin 
+Irvine, CA 92603 • (626) 342-1433 • [jeffreychin89@gmail.com](mailto:jeffreychin89@gmail.com) • [github.com/chinny](https://github.com/chinny)  
 
 ## Experience
 
 **Fidelity National Information Services** | Los Angeles, CA  
 Systems Administrator II, 2020–Present
 
-* Fugiat id esse amet dolore ea ea aliqua.
-* Qui veniam culpa enim labore incididunt elit.
-* Laborum pariatur ut sunt commodo sit sunt ullamco amet.
-* Anim nulla id qui amet consectetur veniam elit proident ipsum.
+* Manage virtual and physical infrastructure of all west coast financial customers.
+* Administration of customer Azure resources, Azure Active Directory, and Microsoft 365 services.  
+* Create and maintain documentation for use by the service desk and other system administrators.
+* Drove the reconfiguration of the VPN for my primary assigned financial institution to optimize registration of DNS records, allowing for the successful use of bank's internal software deployment platform. This same reconfiguration was later deployed to many other customers within the United States.
 
 **Jeffrey Chin IT Services** | Alhambra, CA  
 Owner & System Administrator, 2016-2020
 
-* Minim mollit culpa Lorem velit nostrud culpa non labore laboris culpa non irure aliquip Lorem.
-* Consequat dolore proident proident eu.
-* Consequat laborum aliqua proident esse ea sint magna adipisicing mollit pariatur excepteur quis.
+* Provided desktop and server support for various individuals and businesses.
+* Managed customers' Microsoft 365 services including Azure Active Directory and Exchange Online.
+* Successfully introduced and deployed technologies for my clients such as Remote Desktop Services, simple virtualized VPN deployments, and server virtualization.
+* Notable clients include [640Square](www.640square.com) and [Tekreach](https://tekreach.com/).
 
 **AnimationTech.tv** | Los Angeles, CA  
 Desktop Engineer, 2016-2016
 
-* Minim mollit culpa Lorem velit nostrud culpa non labore laboris culpa non irure aliquip Lorem.
-* Consequat dolore proident proident eu.
-* Consequat laborum aliqua proident esse ea sint magna adipisicing mollit pariatur excepteur quis.
+* Provided desktop and server support for media and design studios around Los Angeles and Orange County.
+* Greatly increased the reputation of the company after successfully providing support as the sole field engineer contracted out to 2016 Beyonce Formation World Tour motion design team.
 
-**CYBERPOWERPC, INC.** | City of Industry, CA  
-Technical Support Representative, 2015-2016
+## Skills
 
-* Minim mollit culpa Lorem velit nostrud culpa non labore laboris culpa non irure aliquip Lorem.
-* Consequat dolore proident proident eu.
-* Consequat laborum aliqua proident esse ea sint magna adipisicing mollit pariatur excepteur quis.
+* Windows Administration (Desktop and Server)
+* Linux Administration (Ubuntu, CentOS, Fedora)
+* Networking (Cisco and Unifi)
+* Cloud Computing (Azure and AWS)
+* Configuration Management (Terraform)
+* Monitoring (SevOne, SolarWinds, and Zabbix)
+* Source Control (Git, GitHub, and Bitbucket)
+* Programming (Python, C#, Bash, and Powershell)
 
 ## Certifications
 
-* Microsoft Certified: Azure Administrator Associate
-* Microsoft Certified: Azure Fundamentals
+* Microsoft Certified: Azure Administrator Associate (AZ-104)
 * Microsoft Technology Associate: Software Development Fundamentals
 * Microsoft Specialist: Enterprise Desktop Support Technician
 * CompTIA A+
-* CompTIA Network+ (Expired)
-* CompTIA Security+ (Expired)
 
 ## Education
 
-**Azusa Pacific University in Azusa, CA**
+**Azusa Pacific University** | Azusa, CA  
+Bachelor of Science in Applied Health, 2007-2013
 
-B.S., Applied Health 2007-2013
+**MOOCs** | Online  
+[Python Computer Science Path (Codecademy)](https://www.codecademy.com/profiles/Jefch)  
+[Essentials of Linux System Administration (Linux Foundation)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/6bc16c06-2244-5f87-b5e5-d1be6c86c4b6-jeffrey-chin-essentials-of-linux-system-administration-lfs201-certificate.pdf)  
+[Complete C# Unity Developer (Udemy)](https://www.udemy.com/certificate/UC-F89PZDG1/)  
+[Computational Thinking for Problem Solving (Coursera)](https://www.coursera.org/account/accomplishments/records/LPTYUAKEWMP3)

@@ -1,1 +1,1 @@
-pandoc --metadata title=" " -s -o jchin_resume.html -c normalize.css jchin_resume.md
+pandoc --metadata title=" " -f markdown -t html5 jchin_resume.md -o jchin_resume.html --css=normalize.css --self-contained
