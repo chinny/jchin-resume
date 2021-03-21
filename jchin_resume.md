@@ -40,7 +40,7 @@ Desktop Engineer, 2016-2016
 * Configuration Management (Terraform)
 * Monitoring (SevOne, SolarWinds, and Zabbix)
 * Source Control (Git, GitHub, and Bitbucket)
-* Programming (Python, C#, Bash, and Powershell)
+* Scripting (Python, C#, Bash, and Powershell)
 
 ## Certifications
 
@@ -63,6 +63,7 @@ Bachelor of Science in Applied Health, 2007-2013
 
 ## Hobbies
 
-* Spending time with my wife and children
-* Maintaining my homelab
-* Taking [photos](http://500px.com/jeffreychin89) and [videos](http://youtube.com/jeffreychin89)
+👪 Spending time with my wife and children.  
+💻 Maintaining my homelab.  
+📷 Taking [photos](http://500px.com/jeffreychin89) and [videos](http://youtube.com/jeffreychin89).  
+🎮 Making games with Unity.  
