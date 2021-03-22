@@ -14,7 +14,7 @@ Systems Administrator II, 2020–Present
 * Create and maintain documentation for use by the service desk and other system administrators.
 * Serve as a point of escalation for the help desk and troubleshoot software and hardware issues.
 * Provide on-call support for network or system failures on a rotational basis. 
-* Headed the reconfiguration of the VPN for my primary assigned financial institution to optimize registration of DNS records, accomodating the bank's use of their internal software deployment platform. This reconfiguration showed great success and was later adopted for many other customers within the United States.
+* Headed the reconfiguration of the VPN for my primary assigned financial institution to optimize registration of DNS records, accommodating the bank's use of their internal software deployment platform. This reconfiguration showed great success and was later adopted for many other customers within the United States.
 
 **Jeffrey Chin IT Services** | Alhambra, CA  
 Owner & System Administrator, 2016-2020
