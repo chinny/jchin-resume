@@ -37,7 +37,7 @@ Desktop Engineer, 2016-2016
 * Virtualization (Hyper-V, VMWare, and Proxmox)
 * Networking (Cisco and Unifi)
 * Cloud Computing (Azure and AWS)
-* Configuration Management (Terraform)
+* Infrastructure as Code (Terraform)
 * Monitoring (SevOne, SolarWinds, and Zabbix)
 * Source Control (Git, GitHub, and Bitbucket)
 * Scripting (Python, C#, Bash, and Powershell)
@@ -63,7 +63,7 @@ Bachelor of Science in Applied Health, 2007-2013
 
 ## Hobbies
 
-👪 Spending time with my wife and children.  
-💻 Maintaining my homelab.  
-📷 Taking [photos](http://500px.com/jeffreychin89) and [videos](http://youtube.com/jeffreychin89).  
-🎮 Making games with Unity.  
+<span class="emoji">👪</span>  Spending time with my wife and children.  
+<span class="emoji">💻</span> Maintaining my homelab.  
+<span class="emoji">📷</span> Taking [photos](http://500px.com/jeffreychin89) and [videos](http://youtube.com/jeffreychin89).  
+<span class="emoji">🎮</span> Making games with Unity.  
