@@ -1,4 +1,4 @@
-# Jeffrey L. Chin
+# Jeffrey Lap-Yan Chin
 
 ##### Irvine, CA 92603 • (626) 342-1433 • [jeffreychin89@gmail.com](mailto:jeffreychin89@gmail.com) • [github.com/chinny](https://github.com/chinny)
 
@@ -9,12 +9,13 @@
 **Fidelity National Information Services** | Los Angeles, CA  
 Systems Administrator II, 2020–Present
 
-* Manage all internal and customer virtual and physical server infrastructure (2000+ systems and users).
+* Manage all internal and customer virtual and physical Windows/Linux server infrastructure (2000+ systems and users).
 * Administration of customer Azure resources, Azure Active Directory, and Microsoft 365 services.  
 * Create and maintain documentation for use by the service desk and other system administrators.
 * Serve as a point of escalation for the help desk and troubleshoot software and hardware issues.
 * Provide on-call support for network or system failures on a rotational basis. 
 * Headed the reconfiguration of the VPN for my primary assigned financial institution to optimize registration of DNS records, accommodating the bank's use of their internal software deployment platform. This reconfiguration showed great success and was later adopted for many other customers within the United States.
+* Department's top performer of 2020.
 
 **Jeffrey Chin IT Services** | Alhambra, CA  
 Owner & System Administrator, 2016-2020
@@ -32,11 +33,11 @@ Desktop Engineer, 2016-2016
 
 ## Skills
 
-* Windows Administration (Desktop and Server)
-* Linux Administration (Ubuntu, CentOS, Fedora)
+* Windows Administration (Desktop and Server 2012/2016/2019)
+* Linux Administration (CentOS, RHEL, Fedora, Ubuntu)
 * Virtualization (Hyper-V, VMWare, and Proxmox)
 * Networking (Cisco and Unifi)
-* Cloud Computing (Azure and AWS)
+* Cloud  (Azure, Microsoft/Office 365, and AWS)
 * Infrastructure as Code (Terraform)
 * Monitoring (SevOne, SolarWinds, and Zabbix)
 * Source Control (Git, GitHub, and Bitbucket)
@@ -44,6 +45,7 @@ Desktop Engineer, 2016-2016
 
 ## Certifications
 
+* LFCS: Linux Foundation Certified Systems Administrator
 * Microsoft Certified: Azure Administrator Associate (AZ-104)
 * Microsoft Technology Associate: Software Development Fundamentals
 * Microsoft Specialist: Enterprise Desktop Support Technician
@@ -57,7 +59,6 @@ Bachelor of Science in Applied Health, 2007-2013
 
 **MOOCs** | Online  
 [Python Computer Science Path (Codecademy)](https://www.codecademy.com/profiles/Jefch)  
-[Essentials of Linux System Administration (Linux Foundation)](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/6bc16c06-2244-5f87-b5e5-d1be6c86c4b6-jeffrey-chin-essentials-of-linux-system-administration-lfs201-certificate.pdf)  
 [Complete C# Unity Developer (Udemy)](https://www.udemy.com/certificate/UC-F89PZDG1/)  
 [Computational Thinking for Problem Solving (Coursera)](https://www.coursera.org/account/accomplishments/records/LPTYUAKEWMP3)
 
