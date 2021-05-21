@@ -36,8 +36,8 @@ Desktop Engineer, 2016-2016
 * Windows Administration (Desktop and Server 2012/2016/2019)
 * Linux Administration (CentOS, RHEL, Fedora, Ubuntu)
 * Virtualization (Hyper-V, VMWare, and Proxmox)
-* Networking (Cisco and Unifi)
-* Cloud  (Azure, Microsoft/Office 365, and AWS)
+* Containerization (Docker and Kubernetes)
+* Cloud (Azure, Microsoft/Office 365, and AWS)
 * Infrastructure as Code (Terraform)
 * Monitoring (SevOne, SolarWinds, and Zabbix)
 * Source Control (Git, GitHub, and Bitbucket)
@@ -64,7 +64,7 @@ Bachelor of Science in Applied Health, 2007-2013
 
 ## Hobbies
 
-<span class="emoji">👪</span>  Spending time with my wife and children.  
+<span class="emoji">👪</span> Spending time with my wife and children.  
 <span class="emoji">💻</span> Maintaining my homelab.  
 <span class="emoji">📷</span> Taking [photos](http://500px.com/jeffreychin89) and [videos](http://youtube.com/jeffreychin89).  
 <span class="emoji">🎮</span> Making games with Unity.  
