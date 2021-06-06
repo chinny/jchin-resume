@@ -45,11 +45,11 @@ Desktop Engineer, 2016-2016
 
 ## Certifications
 
+* CKA: Certified Kubernetes Administrator
 * LFCS: Linux Foundation Certified Systems Administrator
 * Microsoft Certified: Azure Administrator Associate (AZ-104)
 * Microsoft Technology Associate: Software Development Fundamentals
 * Microsoft Specialist: Enterprise Desktop Support Technician
-* CompTIA A+
 * California Emergency Medical Technician
 
 ## Education
