@@ -22,7 +22,7 @@ Owner & System Administrator, 2016-2020
 
 * Provided desktop and server support for various individuals and businesses (500+ systems and users).
 * Managed customers' Microsoft 365 services including Azure Active Directory and Exchange Online.
-* Successfully introduced and deployed technologies for my clients such as Remote Desktop Services, simple virtualized VPN deployments, and server virtualization.
+* Successfully introduced and deployed technologies for my clients such as Remote Desktop Services, simple virtualized VPN deployments, and virtualized servers.
 * Notable clients include [640Square](www.640square.com) and [Tekreach](https://tekreach.com/).
 
 **AnimationTech.tv** | Los Angeles, CA  
