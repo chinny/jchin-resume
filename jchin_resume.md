@@ -6,7 +6,7 @@
 
 ## Experience
 
-**Fidelity National Information Services** | Los Angeles, CA  
+**FIS** | Los Angeles, CA  
 Systems Administrator II, 2020–Present
 
 * Manage all internal and customer virtual and physical Windows/Linux server infrastructure (2000+ systems and users).
