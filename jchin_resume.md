@@ -39,6 +39,7 @@ Desktop Engineer, 2016-2016
 * Containerization (Docker and Kubernetes)
 * Cloud (Azure, Microsoft/Office 365, and AWS)
 * Infrastructure as Code (Terraform)
+* CI/CD (Azure Pipelines)
 * Monitoring (SevOne, SolarWinds, and Zabbix)
 * Source Control (Git, GitHub, and Bitbucket)
 * Scripting (Python, C#, Bash, and Powershell)
@@ -47,6 +48,7 @@ Desktop Engineer, 2016-2016
 
 * CKA: Certified Kubernetes Administrator
 * LFCS: Linux Foundation Certified Systems Administrator
+* Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)
 * Microsoft Certified: Azure Administrator Associate (AZ-104)
 * Microsoft Certified: Teams Administrator Associate (MS-700)
 * Microsoft Technology Associate: Software Development Fundamentals
