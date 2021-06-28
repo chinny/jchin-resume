@@ -13,6 +13,10 @@
 
 ## Changelog
 
+* 2021-06-28
+  * Added AZ-400 cert
+* 2021-06-14
+  * Added MS-700 cert
 * 2021-06-06
   * Added CKA certification
   * Removed A+ certification
