@@ -6,7 +6,7 @@
 
 ## Experience
 
-**FIS** | Los Angeles, CA  
+**FIS Global** | Los Angeles, CA  
 Systems Administrator II, 2020–Present
 
 * Manage all internal and customer virtual and physical Windows/Linux server infrastructure (2000+ systems and users).
@@ -15,7 +15,7 @@ Systems Administrator II, 2020–Present
 * Serve as a point of escalation for the help desk and troubleshoot software and hardware issues.
 * Provide on-call support for network or system failures on a rotational basis. 
 * Headed the reconfiguration of the VPN for my primary assigned financial institution to optimize registration of DNS records, accommodating the bank's use of their internal software deployment platform. This reconfiguration showed great success and was later adopted for many other customers within the United States.
-* Department's top performer of 2020.
+* Department's top performer for 2020 and 2021.
 
 **Jeffrey Chin IT Services** | Alhambra, CA  
 Owner & System Administrator, 2016-2020
@@ -36,10 +36,10 @@ Desktop Engineer, 2016-2016
 * Windows Administration (Desktop and Server 2012/2016/2019)
 * Linux Administration (CentOS, RHEL, Fedora, Ubuntu)
 * Virtualization (Hyper-V, VMWare, and Proxmox)
-* Containerization (Docker and Kubernetes)
+* Containerization (Docker, Kubernetes, Longhorn, and Helm)
 * Cloud (Azure, Microsoft/Office 365, and AWS)
-* Infrastructure as Code (Terraform)
-* CI/CD (Azure Pipelines)
+* Infrastructure as Code (Ansible and Terraform)
+* CI/CD (Azure Pipelines, Flux)
 * Monitoring (SevOne, SolarWinds, and Zabbix)
 * Source Control (Git, GitHub, and Bitbucket)
 * Scripting (Python, C#, Bash, and Powershell)
