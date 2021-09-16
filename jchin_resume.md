@@ -6,8 +6,11 @@
 
 ## Experience
 
+**iHerb** | Irvine, CA  
+DevOps Engineer, 2021-Present
+
 **FIS Global** | Los Angeles, CA  
-Systems Administrator II, 2020–Present
+Systems Administrator II, 2020-2021
 
 * Manage all internal and external customer virtual and physical Windows/Linux server infrastructure (2000+ systems and users).
 * Administration of customer Azure resources, Azure Active Directory, and Microsoft 365 services.  
@@ -26,12 +29,6 @@ Owner & System Administrator, 2016-2020
 * Successfully deployed technologies for my clients such as Remote Desktop Services, simple virtualized VPN deployments, and virtualized servers.
 * Notable clients include [640Square](www.640square.com) and [Tekreach](https://tekreach.com/).
 
-**AnimationTech.tv** | Los Angeles, CA  
-Desktop Engineer, 2016-2016
-
-* Provided desktop and server support for media and design studios around Los Angeles and Orange County.
-* Greatly expanded the reputation of the company by successfully providing onsite support to the 2016 Beyonce Formation World Tour motion design team.
-
 ## Skills
 
 * Windows Administration (Desktop and Server 2012/2016/2019)
@@ -39,10 +36,11 @@ Desktop Engineer, 2016-2016
 * Virtualization (Hyper-V, VMWare, and Proxmox)
 * Containerization (Docker, Kubernetes, Longhorn, Traefik Proxy, and Helm)
 * Cloud (Azure, Microsoft/Office 365, and AWS)
-* Infrastructure as Code (Ansible and Terraform)
-* CI/CD (Azure Pipelines and Flux)
+* Configuration Management (Ansible and Puppet)
+* Infrastructure as Code (Terraform)
+* CI/CD (GitLab, Jenkins, Azure Pipelines and Flux.io)
 * Monitoring (Prometheus, SevOne, SolarWinds, and Zabbix)
-* Source Control (Git, GitHub, and Bitbucket)
+* Source Control (Git, GitHub, GitLab and Bitbucket)
 * Scripting (Python, C#, Bash, and Powershell)
 
 ## Certifications
@@ -58,16 +56,6 @@ Desktop Engineer, 2016-2016
 
 **Azusa Pacific University** | Azusa, CA  
 Bachelor of Science in Applied Health, 2007-2013
-
-**MOOCs** | Online  
-[Python Computer Science Path (Codecademy)](https://www.codecademy.com/profiles/Jefch)  
-[Complete C# Unity Developer (Udemy)](https://www.udemy.com/certificate/UC-F89PZDG1/)  
-[Computational Thinking for Problem Solving (Coursera)](https://www.coursera.org/account/accomplishments/records/LPTYUAKEWMP3)
-
-## Volunteering
-
-**Methodist Hospital of Southern California** | Arcadia, CA  
-Emergency Room Volunteer, 2019-present
 
 ## Hobbies
 
